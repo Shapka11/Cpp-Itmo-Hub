@@ -1,0 +1,1 @@
+add_library(BMPfile allocation.h allocation.cpp bmpfile.h bmpfile.cpp parsing.h parsing.cpp matrix.h matrix.cpp stack.h stack.cpp)
