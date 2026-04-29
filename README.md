@@ -10,9 +10,9 @@
 
 | Лабораторная / Проект | Описание |
 | :--- | :--- |
-| 🚀 **Эмулятор RISC-V** | Симуляция системы «процессор-кэш-память» (RV32I, RV32M) с реализацией политик вытеснения LRU и bit-pLRU. |
-| 🧮 **Квадратный корень (Half Precision)** | Итерационное вычисление квадратного корня. Реализовано на аппаратном уровне в **Logisim** и **Verilog**. |
-| 🔢 **Числа с фиксированной точкой** | Арифметические операции с фиксированной точкой, представление в дополнительном коде (дополнение до 2), алгоритмы округления. |
+| 🚀 **[Эмулятор RISC-V](https://github.com/Shapka11/Cpp-Itmo-Hub/tree/main/Cache_Emulator)** | Симуляция системы «процессор-кэш-память» (RV32I, RV32M) с реализацией политик вытеснения LRU и bit-pLRU. |
+| 🧮 **[Квадратный корень (Half Precision)](https://github.com/Shapka11/Cpp-Itmo-Hub/tree/main/Square-Root-For-Half-Precision)** | Итерационное вычисление квадратного корня. Реализовано на аппаратном уровне в **Logisim** и **Verilog**. |
+| 🔢 **[Числа с фиксированной точкой](https://github.com/Shapka11/Cpp-Itmo-Hub/tree/main/Fixed-Point-Number)** | Арифметические операции с фиксированной точкой, представление в дополнительном коде (дополнение до 2), алгоритмы округления. |
 
 ---
 
@@ -20,8 +20,8 @@
 
 Решения лабораторных работ по программированию на C++.
 
-| Проект | Краткое описание | Ссылка |
-| :--- | :--- | :---: |
+| Проект | Краткое описание |
+| :--- | :--- |
 | ⏳ **[Task Scheduler](https://github.com/Shapka11/Cpp-Itmo-Hub/tree/main/Scheduler_Pattern_Implementation)** | Система планирования задач с графом зависимостей и Future-результатами (Паттерн Scheduler). |
 | 🧩 **[STL Pipelines](https://github.com/Shapka11/Cpp-Itmo-Hub/tree/main/Pipeline_implementation)** | Библиотека функциональных адаптеров для потоковой и ленивой обработки данных. |
 | 🗺 **[Route Searcher](https://github.com/Shapka11/Cpp-Itmo-Hub/tree/main/Search_for_intercity_tickets_Yandex_Maps_API)** | Поиск междугородних маршрутов через Yandex Maps API, кэширование и работа с HTTP-запросами. |
